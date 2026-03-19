@@ -95,7 +95,7 @@ privacy-threat-modeling-linddun/
 ## 📄 Report
 
 👉 View Full Report:
-docs/project-report.pdf https://github.com/Jodan-jd/privacy-threat-modeling-linddun/blob/main/docs/Privacy%20Risk%20Assessment%20of%20Disaster%20Relief%20System.pdf
+[docs/project-report.pdf](https://github.com/Jodan-jd/privacy-threat-modeling-linddun/blob/main/docs/Privacy%20Risk%20Assessment%20of%20Disaster%20Relief%20System.pdf)
 
 ---
 
